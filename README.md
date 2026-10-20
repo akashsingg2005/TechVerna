@@ -43,6 +43,7 @@ TechVerna/
 │       ├── narayan.jpg           # Narayan Kumar (CEO)
 │       ├── adarsh.jpg            # Adarsh Kumar (CTO)
 │       ├── vishal.jpg            # Vishal Kumar (Managing Director)
+│       ├── gaurav.jpg            # Gaurav Anand (Business Development Manager)
 │       └── aryan.jpg             # Aryan Kumar Singh (Business Development Executive)
 │
 ├── css/                          # Stylesheets
@@ -85,6 +86,7 @@ TechVerna/
 - **Narayan Kumar** — *Chief Executive Officer (CEO)*
 - **Adarsh Kumar** — *Chief Technology Officer (CTO)*
 - **Vishal Kumar** — *Managing Director*
+- **Gaurav Anand** — *Business Development Manager*
 - **Aryan Kumar Singh** — *Business Development Executive*
 
 ---

@@ -881,6 +881,12 @@ button, input, select, textarea {
   gap: 24px;
 }
 
+@media (min-width: 769px) {
+  .team-grid-3col > .executive-card:last-child:nth-child(3n - 2) {
+    grid-column: 2;
+  }
+}
+
 .executive-card {
   background-color: var(--color-white);
   border: 1px solid #E2E8F0;
